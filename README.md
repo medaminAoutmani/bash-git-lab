@@ -16,3 +16,8 @@ the Production ML Foundations learning roadmap.
 - Linux automation
 - Git version control
 - GitHub collaboration
+
+## System Report
+
+The system_report.sh script checks the project directory
+and verifies the availability of Python, Git and SSH.
